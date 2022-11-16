@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ifeoluwa-Joel
 - 👀 I’m interested in Artificial Intelligence/Machine Learning
-- 🌱 I’m currently learning a Software Engineering Student at ALX
+- 🌱 I’m currently learning as a Software Engineering Student at ALX
 - 💞️ I’m looking to collaborate on simple Python projects.
 - 📫 Mail me! -- ifeoluwajoel794@gmail.com. 
 
